@@ -12,7 +12,7 @@ import { Customer, CustomerAPIService } from 'src/services/customerService';
 export class AddCustomerComponent  {
   customerForm : Customer = {
      id : 0,
-      name :'pedrito',
+      name :'Mateo',
        address :'', 
        city:'',
         state:'', 
